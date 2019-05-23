@@ -1,0 +1,9 @@
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\bin\Debug\CaptchaSolver.exe.config
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\bin\Debug\CaptchaSolver.exe
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\bin\Debug\CaptchaSolver.pdb
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.csprojResolveAssemblyReference.cache
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.Form1.resources
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.exe
+c:\users\str8\documents\visual studio 2012\Projects\CaptchaSolver\CaptchaSolver\obj\Debug\CaptchaSolver.pdb
